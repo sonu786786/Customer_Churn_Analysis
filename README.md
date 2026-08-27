@@ -1,7 +1,3 @@
-The merge conflict left `<<<<<<< HEAD` markers in your `README.md`.
-
-You can fix this directly on GitHub: click the **pencil (edit) icon** on the top right of the README section, replace the entire content with the Markdown below, and click **Commit changes**.
-
 ```markdown
 # 📊 Customer Churn Prediction & Web App
 
