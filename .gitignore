@@ -1,0 +1,23 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.venv/
+env/
+
+# Data & Models
+*.csv
+*.parquet
+*.pkl
+*.joblib
+data/
+
+# Environment Variables
+.env
+.DS_Store
